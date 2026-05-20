@@ -1,31 +1,31 @@
- Archana D
+ Hi 👋, I'm Archana D
 
-Aspiring Computer Engineering Student | Frontend Developer | Creative Thinker
+💻 Aspiring Computer Engineer | 🎨 Creative Thinker | 🚀 Frontend Developer in Progress
 
+ 🌟 About Me
 
- About Me
+I'm a Diploma student in Computer Engineering passionate about building beautiful, responsive, and user-friendly web applications.  
+I enjoy blending **technology and creativity** through coding and drawing.
 
-I am a Diploma student in Computer Engineering with a strong interest in web development and UI design. I enjoy building responsive and user-friendly web applications while also exploring creativity through drawing and design.
-
-- Currently working on frontend development projects  
-- Currently learning React and Tailwind CSS  
-- Interested in UI/UX design and modern web technologies  
-- Hobby includes drawing and creative sketching  
-- I like combining creativity with coding to build meaningful interfaces  
-
-
-Skills
-
-- HTML, CSS, JavaScript  
-- React.js (Learning)  
-- Tailwind CSS  
-- Basic UI/UX Design  
-- Git & GitHub  
+- 🔭 Currently working on: Frontend Web Projects
+- 🌱 Currently learning: React, Tailwind CSS, and UI/UX Design
+- 🎨 Hobby: Drawing & Creative Designing
+- 💡 Interested in: Web Development, UI Design, and Modern Tech
+- ⚡ Fun fact: I love turning ideas into visual designs using both code and sketching
 
 
- Goals
+🛠️ Tech Stack
 
-- Become a skilled full stack developer  
-- Build real-world impactful web applications  
-- Improve design skills along with development  
-- Work on creative and innovative projects  
+- 💻 HTML | CSS | JavaScript  
+- ⚛️ React.js (Learning)  
+- 🎨 Tailwind CSS  
+- 🧠 Basic UI/UX Design  
+- 🛠️ Git & GitHub  
+
+ 🎯 Goals
+
+- Become a skilled Full Stack Developer  
+- Build creative and impactful web projects  
+- Combine design + development for better user experiences  
+
+⭐ Thanks for visiting my profile!
